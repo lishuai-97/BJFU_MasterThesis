@@ -1,6 +1,10 @@
 # BJFU_MasterThesis
 北京林业大学硕士学位论文LaTeX模板（非官方）Beijing Forestry University Master's Thesis LaTeX Template (Unofficial)
 
+<div style="text-align:center">
+<img src="./figs/overview.png">
+</div>
+
 ## 使用方法
 
 ### 1. 下载模板
